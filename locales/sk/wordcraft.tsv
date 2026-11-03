@@ -306,7 +306,7 @@ numerals	Arabic	Západné číslice
 	Body Text	Hlavný text
 	Body text in a short paragraph to show spacing.	Krátky odsek hlavného textu na ukážku rozostupov.
 	Bold	Tučné
-	Bold choice. Ctrl+Z is right there if you need it.	Odvážna voľba. Ctrl+Z je hneď tu, keby ste ju potrebovali.
+	Bold choice. Ctrl+Z is right there if you need it.	Odvážna voľba. Ctrl+Z je hneď tu, keby ste to potrebovali.
 	Book	Kniha
 	Book Title	Názov knihy
 	Book title	Názov knihy
@@ -341,7 +341,7 @@ numerals	Arabic	Západné číslice
 	Break Link	Zrušiť prepojenie
 	Breaks	Zlomy
 	Breve	Oblúčik
-	Bright Green	Svetlá zelená
+	Bright Green	Jasnozelená
 	Brighter +20%	Jas +20 %
 	Brightness, contrast and sharpness	Jas, kontrast a ostrosť
 	Bring Forward	Preniesť dopredu
@@ -862,7 +862,7 @@ numerals	Context	Podľa okolitého textu
 	Editing footnote	Úprava poznámky pod čiarou
 	Editing header/footer	Úprava hlavičky alebo päty
 	Editing in this document is restricted.	Úpravy v tomto dokumente sú obmedzené.
-	Editing is blocked in Viewing mode.	Úpravy sú v režime zobrazenia zablokované.
+	Editing is blocked in Viewing mode.	Úpravy sú v režime Prezeranie zablokované.
 	Editing — edit the document directly	Úpravy – upravovať dokument priamo
 	Edition	Vydanie
 	Editor	Editor
@@ -1107,8 +1107,8 @@ numerals	Context	Podľa okolitého textu
 	Graphic	Grafika
 	Grave	Gravis
 	Gray 0%	Odtiene sivej 0 %
-	Gray-25%	Sivá 25 %
-	Gray-50%	Sivá 50 %
+	Gray-25%	Odtiene sivej 25 %
+	Gray-50%	Odtiene sivej 50 %
 	Grayscale	Odtiene sivej
 	Greater than	Väčšie ako
 	Greater than or equal	Väčšie alebo rovné
@@ -1195,7 +1195,7 @@ numerals	Hindi	Východoarabské číslice
 	Hyphens (--) as dashes (—)	Spojovníky (--) ako pomlčky (—)
 	Hypotenuse	Prepona
 	I promise it's saved. I checked. Twice.	Sľubujem, že je to uložené. Skontroloval som. Dvakrát.
-	I'd write something myself, but I'm all nib and no ink.	Napísal by som niečo sám, ale zo mňa je len pera a atrament žiadny.
+	I'd write something myself, but I'm all nib and no ink.	Napísal by som niečo sám, ale som samé pero a žiadny atrament.
 	I, II, III, …	I, II, III, …
 	i, ii, iii, …	i, ii, iii, …
 	Icon Color	Farba ikon
@@ -1603,7 +1603,7 @@ template	Letter	List
 	Move Down	Posunúť nadol
 	Move in Equation	Pohybovať sa v rovnici
 	Move or Resize	Presunúť alebo zmeniť veľkosť
-	Move Pane: {title}	Presunúť panel: {title}
+	Move Pane: {title}	Presunúť tablu: {title}
 	Move Paragraph Down	Posunúť odsek nadol
 	Move Paragraph Up	Posunúť odsek nahor
 	Move Past Citation	Prejsť za citáciu
@@ -1885,7 +1885,7 @@ spacing	Open	Voľné
 	Pages in the range	Strany v rozsahu
 	Pages like 1-3, 5	Strany, napr. 1–3, 5
 	Pages of bookmark:	Strany záložky:
-	Pane Options	Možnosti panela
+	Pane Options	Možnosti tably
 	Paper	Papier
 	Paper size:	Veľkosť papiera:
 	Paragraph	Odsek
@@ -2063,7 +2063,7 @@ spacing	Open	Voľné
 	Recolor a one-color picture, such as an icon	Zmeniť farbu jednofarebného obrázka, napríklad ikony
 	Recolor Selected Ink	Zmeniť farbu vybraného rukopisu
 	Record Macro	Zaznamenať makro
-	Record…	Nahrať…
+	Record…	Zaznamenať…
 	Recover	Obnoviť
 	Recover documents	Obnoviť dokumenty
 	Recover Unsaved Documents	Obnoviť neuložené dokumenty
@@ -2149,7 +2149,7 @@ spacing	Open	Voľné
 	Reset to Normal	Nastaviť štýl Normálny
 	Reset\nGraphic	Obnoviť\ngrafiku
 	Reset…	Obnoviť…
-	Resize Pane	Zmeniť veľkosť panela
+	Resize Pane	Zmeniť veľkosť tably
 	Resize Table by Dragging	Zmeniť veľkosť tabuľky ťahaním
 	Resolve	Vyriešiť
 	Resolved	Vyriešené
@@ -2529,7 +2529,7 @@ spacing	Open	Voľné
 	Stop	Zastaviť
 	Stop Protection	Vypnúť ochranu
 	Stop Reading	Zastaviť čítanie
-	Stop Recording	Zastaviť nahrávanie
+	Stop Recording	Zastaviť záznam
 	Stopped	Zastavené
 	Straight Arrow Connector	Spojnica s priamou šípkou
 	Straight Connector	Priama spojnica
@@ -2551,7 +2551,7 @@ spacing	Open	Voľné
 	Style: {style}	Štýl: {style}
 	Styles	Štýly
 	Styles Pane	Tabla štýlov
-	Styles Pane Position	Pozícia panela štýlov
+	Styles Pane Position	Pozícia tably štýlov
 	Styles:	Štýly:
 	Subentry:	Podpoložka:
 	Subject	Predmet
@@ -2625,7 +2625,7 @@ numerals	System	Podľa systému
 	Tabular List	Tabuľkový zoznam
 	Tag	Značka
 	Take the last match on the page	Použiť posledný výskyt na strane
-	Take your time. The page isn't going anywhere. Neither am I. Ever.	Náhlite sa. Strana nikam nepôjde. Ani ja nie. Nikdy.
+	Take your time. The page isn't going anywhere. Neither am I. Ever.	Nenáhlite sa. Strana nikam nepôjde. Ani ja nie. Nikdy.
 	Tangent formula	Vzorec pre tangens
 	Tangent Function	Funkcia tangens
 	TC entry fields	Polia položiek obsahu (TC)
@@ -2883,8 +2883,8 @@ preview	Title	Názov
 	View Gridlines	Zobraziť mriežku
 	View State	Stav zobrazenia
 	View › Focus hides everything but your words. I'll wait outside.	Zobrazenie › Zamerať skryje všetko okrem vašich slov. Počkám vonku.
-	Viewing	Zobrazenie
-	Viewing — view the file but make no changes	Zobrazenie — pozrieť súbor bez zmien
+	Viewing	Prezeranie
+	Viewing — view the file but make no changes	Prezeranie — pozrieť súbor bez zmien
 	Views	Zobrazenia
 	Visual effects	Vizuálne efekty
 	Vivid 200%	Výrazné farby 200 %
@@ -2962,7 +2962,7 @@ preview	Title	Názov
 	Yes	Áno
 	Yields	Dáva
 	You haven't saved in a while, and AutoSave is off. Save now?	Chvíľu ste neukladali a automatické ukladanie je vypnuté. Uložiť teraz?
-	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Spustili ste zoznam. Ukončíte ho dvojitým stlačením Enter, alebo Backspacom na začiatku položky ho premeníte späť na text.
+	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Začali ste zoznam. Ukončíte ho dvojitým stlačením Enter, alebo Backspacom na začiatku položky ho premeníte späť na text.
 	Your changes will be lost if you don't save them.	Ak zmeny neuložíte, stratia sa.
 	Your document is now the most saved document in history.	Váš dokument je teraz najčastejšie ukladaný dokument v histórii.
 	Your system doesn't report an animation setting, so animation effects stay on.	Systém neposkytuje informáciu o nastavení animácií, preto animované efekty zostávajú zapnuté.
